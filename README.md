@@ -1,16 +1,17 @@
 SkillSwapAI is an AI-driven platform that matches learners and mentors for skill exchange. Users can find the best matches based on skills, generate personalized learning roadmaps, and securely collaborate to enhance learning efficiency.”
 -----------------------------------------------------------------------------------------------
-Implementation:
 
-User Profiles: Skills offered and needed, verified credentials.
-AI Matching: Using TF-IDF similarity + skill-level bonuses to recommend top matches.
-Learning Roadmaps: Predefined AI-generated paths for skill goals (Data Science, Web Dev, etc.).
-Security: Verified accounts, reporting system, skill credibility checks to avoid cheating.
-Frontend: User-friendly interface (HTML, CSS, JS, or React).
-Backend: FastAPI server with endpoints for user data, AI recommendations, and roadmap generation.
-Database: PostgreSQL/SQLite for storing users, skills, and sessions.
-AI Logic: Skill similarity, match scoring, roadmap generation.
-Integration: REST API calls from frontend to backend.
+Implementation:
+User Profiles:Skills offeres and needed ,verified credentials
+AI Matching: Using TF-IDF  similarity +skill-leve; bonuses to recommend top matches
+Learning Roadmaps:Predefined AI-generated paths for skill goals(Data Science,Web Dev,etc)
+Security:Verfied accounts,reporting system,skill credibility checks to avoid cheating.
+Frontend-User-Friendly interface
+Backend:FastApi
+Database:MongoDB
+AI logic:Skill similarity,match scoring ,roadmap generation
+Integeration:REST API  calls from frontend to backend
+
 ----------------------------------------------------------------------------------------------
 #how to use skillswapai
 Step 1:
