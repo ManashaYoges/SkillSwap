@@ -35,8 +35,5 @@ http://127.0.0.1:8000/recommendations?user_id=1
 
 Generate a learning roadmap:
 http://127.0.0.1:8000/roadmap?skill_goal=Data%20Science
-
-
-Step 6:
-Run the frontend
+Step 6:Run the frontend
 ---------------------------------------------------------------------------------------
